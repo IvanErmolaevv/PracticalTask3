@@ -1,0 +1,15 @@
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\bin\Debug\net6.0\Task27.exe
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\bin\Debug\net6.0\Task27.deps.json
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\bin\Debug\net6.0\Task27.dll
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\bin\Debug\net6.0\Task27.pdb
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\Task27.dll
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\refint\Task27.dll
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\Task27.pdb
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+E:\Программирование\Практические задания C#\PracticalTask3\Task27\obj\Debug\net6.0\ref\Task27.dll
